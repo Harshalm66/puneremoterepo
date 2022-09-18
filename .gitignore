@@ -2,4 +2,4 @@
 *.net
 
 [aeiou]*.txt
-
+!six.net
